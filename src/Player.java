@@ -31,7 +31,7 @@ public class Player {
         return losses;
     }
 
-    public int getDraws() { //dapatkan draws
+    public int getDraws() { //dapatkan seri
         return draws;
     }
 
