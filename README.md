@@ -49,5 +49,7 @@ Database used: MySQL
 - SoundManager: Memainkan suara menggunakan javax.sound.sampled yang sudah built-in di Java, yang nantinya menghasilkan suara berbeda untuk menang, kalah, seri, dan klik tombol tanpa memerlukan file audio eksternal
 
 ## Screenshoot
+<img width="558" height="692" alt="image" src="https://github.com/user-attachments/assets/3575d7b7-d3e7-4c21-85eb-03855a0c1dba" />
+
 
 ## Video Link
