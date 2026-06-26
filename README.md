@@ -44,7 +44,7 @@ Database used: MySQL
 - TopScorersFrame: Jendela yang menampilkan 5 pemain dengan score tertinggi dari database menggunakan JTable, pada jendela ini data diambil dari PlayerService.getTopFiveScorers() dan diurutkan berdasarkan score tertinggi, lalu wins terbanyak jika score sama
 
 ## Class Tambahan 
-SoundManager: Memainkan suara menggunakan javax.sound.sampled yang sudah built-in di Java, yang nantinya menghasilkan suara berbeda untuk menang, kalah, seri, dan klik tombol tanpa memerlukan file audio eksternal
+- SoundManager: Memainkan suara menggunakan javax.sound.sampled yang sudah built-in di Java, yang nantinya menghasilkan suara berbeda untuk menang, kalah, seri, dan klik tombol tanpa memerlukan file audio eksternal
 
 ## Screenshoot
 
