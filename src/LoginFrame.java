@@ -17,7 +17,7 @@ public class LoginFrame extends JFrame {
         setLocationRelativeTo(null); //nampilin ditengah layarnya
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //klik X untuk nutup program
 
-        //warna tema
+        //warna tema untuk ui
         Color bgColor = new Color(28, 30, 48);
         Color titleColor = new Color(90, 180, 255);
         Color inputColor = new Color(40, 43, 65);
@@ -83,8 +83,7 @@ public class LoginFrame extends JFrame {
         panel.add(btnLogin, gbc);
 
         add(panel);
-
-        // Action Login
+        
         btnLogin.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 String username = txtUsername.getText(); //get username from txtUsername
