@@ -88,7 +88,7 @@ public class SoundManager {
             line.start();
 
             int numSamples = (int) (44100 * durationMs / 1000.0);
-            byte[] buffer  = new byte[numSamples * 2]; // 2 byte per sampel (16-bit)
+            byte[] buffer  = new byte[numSamples * 2]; 
 
             for (int i = 0; i < numSamples; i++) {
                 double angle = 2.0 * Math.PI * i * frequency / 44100;
