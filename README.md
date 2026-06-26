@@ -51,11 +51,7 @@ Database used: MySQL
 ## Screenshoot
 <img width="433" height="314" alt="Screenshot 2026-06-26 120355" src="https://github.com/user-attachments/assets/885c3152-87fa-42df-bf1e-a1755d1dff57" />
 
-
-
 <img width="433" height="315" alt="Screenshot 2026-06-26 120409" src="https://github.com/user-attachments/assets/a56f6a56-3beb-4b2f-94a4-5272ff342d65" />
-
-
 
 <img width="428" height="316" alt="Screenshot 2026-06-26 120419" src="https://github.com/user-attachments/assets/f26e10e0-8dbc-4320-b91a-3821c254363c" />
 
@@ -74,8 +70,5 @@ Database used: MySQL
 <img width="652" height="381" alt="Screenshot 2026-06-26 120708" src="https://github.com/user-attachments/assets/b9a0c224-8ae7-4e8e-9366-ffb72b32beae" />
 
 <img width="423" height="512" alt="Screenshot 2026-06-26 120717" src="https://github.com/user-attachments/assets/7db46eee-63bc-4aca-9b93-e7d8cd4470f5" />
-
-
-
 
 ## Video Link
