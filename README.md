@@ -32,16 +32,16 @@ Database used: MySQL
 - Jalankan Main.Java
 
 ## Class Explanation
-Main:
-DatabaseManager:
-Player:
-PlayerService:
-GameLogic:
-LoginFrame:
-MainMenuFrame:
-GameFrame:
-StatisticsFrame:
-TopScorersFrame:
+- Main:
+- DatabaseManager:
+- Player:
+- PlayerService:
+- GameLogic:
+- LoginFrame:
+- MainMenuFrame:
+- GameFrame:
+- StatisticsFrame:
+- TopScorersFrame:
 
 ## Class Tambahan 
 SoundManager: 
